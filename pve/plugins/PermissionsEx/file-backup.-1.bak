@@ -1,0 +1,119 @@
+groups:
+  default:
+    options:
+      default: true
+    permissions:
+    - minecraft.command.save-all
+    - minimap.command.minimap
+    - changeskin.command.setskin
+    - backpack.use
+    - backpack.size.2
+    - autoinventory
+    - essentials.hat
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.back
+    - essentials.back.ondeath
+    - essentials.balance
+    - essentials.balance.others
+    - essentials.balancetop
+    - essentials.build
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.chat.shout
+    - essentials.chat.question
+    - essentials.clearinventory
+    - essentials.compass
+    - essentials.depth
+    - essentials.delhome
+    - essentials.getpos
+    - essentials.geoip.show
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.home.others
+    - essentials.sethome.multiple
+    - essentials.ignore
+    - essentials.info
+    - essentials.itemdb
+    - essentials.kit
+    - essentials.kits.tools
+    - essentials.list
+    - essentials.mail
+    - essentials.mail.send
+    - essentials.me
+    - essentials.motd
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.nick
+    - essentials.near
+    - essentials.pay
+    - essentials.ping
+    - essentials.protect
+    - essentials.r
+    - essentials.rules
+    - essentials.realname
+    - essentials.seen
+    - essentials.sell
+    - essentials.sethome
+    - essentials.setxmpp
+    - essentials.signs.create.protection
+    - essentials.signs.create.trade
+    - essentials.signs.break.protection
+    - essentials.signs.break.trade
+    - essentials.signs.use.balance
+    - essentials.signs.use.buy
+    - essentials.signs.use.disposal
+    - essentials.signs.use.enchant
+    - essentials.signs.use.free
+    - essentials.signs.use.gamemode
+    - essentials.signs.use.heal
+    - essentials.signs.use.info
+    - essentials.signs.use.kit
+    - essentials.signs.use.mail
+    - essentials.signs.use.protection
+    - essentials.signs.use.repair
+    - essentials.signs.use.sell
+    - essentials.signs.use.time
+    - essentials.signs.use.trade
+    - essentials.signs.use.warp
+    - essentials.signs.use.weather
+    - essentials.spawn
+    - essentials.suicide
+    - essentials.time
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.world
+    - essentials.worth
+    - essentials.xmpp
+  builder:
+    inheritance:
+    - default
+    options:
+    - rank:'1'
+    permissions:
+    - -worldedit.inventory.unrestricted
+    - worldedit.*
+users:
+  826aea0e-cdad-345d-82bb-00d87ef95cea:
+    group:
+    - builder
+    options:
+      name: shdopeoplesn
+  e2d14508-6d9c-3d94-b7e8-9679ddd2b5e0:
+    group:
+    - builder
+    options:
+      name: Joker
+  domico:
+    group:
+    - builder
+  f0aca905-a284-345a-b34a-9477cc1f6563:
+    group:
+    - builder
+    options:
+      name: KenCar
