@@ -1,0 +1,5 @@
+endermen-max-capacity: 20
+per-chunk: true
+command:
+  config-reloaded: '&aConfiguration reloaded.'
+  no-permission: '&cYou do not have permission.'
