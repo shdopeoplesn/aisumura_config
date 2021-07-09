@@ -33,6 +33,7 @@ messages:
     authentication-servers-down: ''
     connection-throttle: Connection throttled! Please wait before reconnecting.
 settings:
+  log-named-entity-deaths: true
   suggest-player-names-when-null-tab-completions: true
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
