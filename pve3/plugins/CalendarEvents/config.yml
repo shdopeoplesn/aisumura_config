@@ -16,7 +16,7 @@ events:
     timing:
       # 'every day' gets translated to 'monday, tuesday, wednesday, thursday, friday, saturday, sunday'
       occasion: "every day"
-      time: "xx:30,xx:00"
+      time: "xx:00"
   exampleEvent2:
     timing:
       occasion: "every day"
