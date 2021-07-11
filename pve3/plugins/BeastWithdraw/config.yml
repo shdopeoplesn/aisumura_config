@@ -25,7 +25,7 @@ WithdrawItems:
 ##Minimum amount which can be withdraw to bottle.
   Min: 25
 ##Maximum amount which can be withdraw to bottle.
-  Max: 10000
+  Max: 100000
 
 ##Min and Max amount per permissions.
 ##Permission should be BeastWithdraw.PermNotes.<name_of_perm>
@@ -46,7 +46,7 @@ WithdrawItems:
 ##Tax will take specified percentage amount when player withdraw's XpBottle (0.01% to 100% Possible values).
 ##Bypass Tax permission "BeastWithdraw.XpBottle.ByPass.Tax"
    Tax:
-    Enabled: false
+    Enabled: true
     Percentage: 5
 ##Fee will charge money when player withdraw's XpBottle.
 ##Bypass Fee permission "BeastWithdraw.XpBottle.ByPass.Fee"
@@ -69,13 +69,13 @@ WithdrawItems:
   DropOnDeath: false
 
 ##Set up procenttage of droped xp in bottle. Min Chance 1 / Max Chance 100 going over it or under it will break plugin! 
-  DropPercentage: 100
+  DropPercentage: 95
 
 ##Set up aliases for /Xpbottle command
   Aliases: [xpb, beastxpb, bottle]
 
 ##By setting this option to true xp from bottle will be automaticly given to player it won't be dropped on floor.
-  AutoCollect: true
+  AutoCollect: false
 ##--------------------------------------------------------------------------------------------------------##
 
 
@@ -100,7 +100,7 @@ WithdrawItems:
 ##Minimum amount which can be withdraw to cash-note.
   Min: 25
 ##Maximum amount which can be withdraw to cash-note.
-  Max: 10000
+  Max: 10000000
 
 ##Min and Max amount per permissions.
 ##Permission should be BeastWithdraw.PermNotes.<name_of_perm>

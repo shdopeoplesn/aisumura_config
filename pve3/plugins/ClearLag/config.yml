@@ -50,7 +50,7 @@ lag-spike-helper:
 # -- 'check-interval' In seconds, on what interval should the transfer limit be reset
 hopper-limiter:
   enabled: false
-  transfer-limit: 5
+  transfer-limit: 3
   check-interval: 1
 
 #Meters your ram usage. If it goes above 'limit', run 'commands:'
