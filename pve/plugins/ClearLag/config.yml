@@ -317,8 +317,8 @@ tps-meter:
   recover-broadcast-message: '&6[ClearLag] &aThe server is no longer overloaded!'
   broadcast-enabled: false
   interval: 15
-  tps-trigger: 15.0
-  tps-recover: 16.0
+  tps-trigger: 18.0
+  tps-recover: 19.0
   commands:
     - 'minecraft:kill @e[type=zombie]'
     - 'minecraft:kill @e[type=zombified_piglin]'
