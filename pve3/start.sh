@@ -1,1 +1,1 @@
-screen java -server -Xmx8G -jar pve3_core.jar nogui
+screen java -server -XX:+UseZG -Xmx8G -jar pve3_core.jar nogui
