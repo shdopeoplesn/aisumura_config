@@ -62,7 +62,7 @@ Exploits:
     Entities: {}
     Traders:
       ZombieVillagerTransformChance: 0
-      BlockVillagerTradeCheesing: true
+      BlockVillagerTradeCheesing: false
       VillagerRestockTime: 0
     Misc: {}
   OverStack:

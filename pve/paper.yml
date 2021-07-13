@@ -105,7 +105,7 @@ world-settings:
     remove-corrupt-tile-entities: true
     experience-merge-max-value: -1
     prevent-moving-into-unloaded-chunks: true
-    count-all-mobs-for-spawning: true
+    count-all-mobs-for-spawning: false
     per-player-mob-spawns: true
     allow-using-signs-inside-spawn-protection: false
     falling-block-height-nerf: 0
