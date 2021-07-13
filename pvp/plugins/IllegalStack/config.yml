@@ -95,7 +95,7 @@ Exploits:
   DropperDupe:
     BlockLoopedDroppers: false
   TNTDupe:
-    PreventIndirectTNTPowerDupe: true
+    PreventIndirectTNTPowerDupe: false
   Nether:
     NetherYLevel: 128
     BlockPlayersAboveNether: false
