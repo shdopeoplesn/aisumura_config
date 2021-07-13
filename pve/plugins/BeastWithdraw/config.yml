@@ -25,7 +25,7 @@ WithdrawItems:
 ##Minimum amount which can be withdraw to bottle.
   Min: 25
 ##Maximum amount which can be withdraw to bottle.
-  Max: 100000
+  Max: 100000000
 
 ##Min and Max amount per permissions.
 ##Permission should be BeastWithdraw.PermNotes.<name_of_perm>
