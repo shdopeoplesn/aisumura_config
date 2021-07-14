@@ -32,10 +32,11 @@ spawn-limits:
 chunk-gc:
   period-in-ticks: 600
 ticks-per:
-  water-ambient-spawns: 1
+  water-ambient-spawns: 10
   animal-spawns: 400
-  monster-spawns: 100
-  water-spawns: 1
-  ambient-spawns: 1
+  monster-spawns: 5
+  water-spawns: 5
+  ambient-spawns: 10
   autosave: -1
+
 aliases: now-in-commands.yml
