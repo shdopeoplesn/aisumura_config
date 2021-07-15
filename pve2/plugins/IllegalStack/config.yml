@@ -84,7 +84,7 @@ Exploits:
     RemoveExistingGlitchedMinecarts: false
     PreventHeadInsideBlocks: false
   Enchants:
-    FixIllegalEnchants: true
+    FixIllegalEnchants: false
     RemoveCustomAttributes: false
     AllowBypass: false
     EnchantedItemWhitelist: []

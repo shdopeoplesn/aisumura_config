@@ -5,7 +5,7 @@ UserRequested:
       CheckGroundForBadShulkerAtLogin: false
       DestroyInvalidShulkers: false
     HopperCheck:
-      IgnoreAllHopperChecks: false
+      IgnoreAllHopperChecks: true
     IgnoreAllShulkerPlaceChecks: false
     BlockBadItemsFromCreativeTab: false
   Spawners: {}
@@ -37,7 +37,7 @@ Exploits:
     BlockCMIShulkerStacking: true
   Other:
     DisableChestsOnMobs: true
-    PreventHoppersToUnloadedChunks: true
+    PreventHoppersToUnloadedChunks: false
     PreventBedrockDestruction: false
     PunishForChestsOnMobs: false
     PreventCommandsInBed: true
@@ -67,7 +67,7 @@ Exploits:
     Misc: {}
   OverStack:
     RemoveItemsOfType: []
-    PreventOverStackedItemInHoppers: true
+    PreventOverStackedItemInHoppers: false
     GroupStack: []
     AllowStack:
     - POTION
@@ -84,7 +84,7 @@ Exploits:
     RemoveExistingGlitchedMinecarts: false
     PreventHeadInsideBlocks: false
   Enchants:
-    FixIllegalEnchants: true
+    FixIllegalEnchants: false
     RemoveCustomAttributes: false
     AllowBypass: false
     EnchantedItemWhitelist: []
