@@ -95,6 +95,7 @@ timings:
   server-name: Unknown Server
 world-settings:
   default:
+    show-sign-click-command-failure-msgs-to-player: false
     seed-based-feature-search-loads-chunks: true
     fix-items-merging-through-walls: false
     map-item-frame-cursor-limit: 128

@@ -93,6 +93,7 @@ settings:
       to create headless pistons.
 world-settings:
   default:
+    show-sign-click-command-failure-msgs-to-player: false
     disable-teleportation-suffocation-check: false
     delay-chunk-unloads-by: 10s
     ender-dragons-death-always-places-dragon-egg: false
