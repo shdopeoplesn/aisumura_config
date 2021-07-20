@@ -47,7 +47,6 @@ listener:
     commands:
      - "minecraft:kill @e[type=snowball]"
      - "minecraft:kill @e[type=bat]"
-     - "save-all"
   exampleEvent2:
     commands:
      - "eco give %allOnline% 60000"

@@ -51,7 +51,6 @@ listener:
      - "minecraft:kill @e[type=arrow]"
      - "minecraft:kill @e[type=minecraft:zombie]"
      - "minecraft:kill @e[type=minecraft:zombified_piglin]"
-     - "save-all"
   exampleEvent2:
     commands:
      - "eco give %allOnline% 60000"

@@ -37,5 +37,5 @@ ticks-per:
   monster-spawns: 1
   water-spawns: 1
   ambient-spawns: 1
-  autosave: -1
+  autosave: 216000
 aliases: now-in-commands.yml
