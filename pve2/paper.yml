@@ -93,6 +93,7 @@ settings:
       to create headless pistons.
 world-settings:
   default:
+    allow-player-cramming-damage: false
     show-sign-click-command-failure-msgs-to-player: false
     disable-teleportation-suffocation-check: false
     delay-chunk-unloads-by: 10s
@@ -290,12 +291,18 @@ world-settings:
       immune-to-wither-effect:
         wither: true
         wither-skeleton: true
+    tick-rates:
+      sensor:
+        villager:
+          secondarypoisensor: 40
+      behavior:
+        villager:
+          validatenearbypoi: -1
   world_nether:
     anti-xray:
       max-chunk-section-index: 7
       max-block-height: 128
       hidden-blocks:
-      # See note about air above.
       - air
       - ancient_debris
       - bone_block
