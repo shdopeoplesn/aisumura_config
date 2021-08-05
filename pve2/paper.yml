@@ -12,8 +12,9 @@
 
 verbose: false
 use-display-name-in-quit-message: false
-config-version: 20
+config-version: 21
 timings:
+  url: https://timings.aikar.co/
   enabled: true
   verbose: true
   server-name-privacy: false
@@ -91,6 +92,7 @@ settings:
       other items
     allow-headless-pistons-readme: This setting controls if players should be able
       to create headless pistons.
+  use-display-name-in-quit-message: false
 world-settings:
   default:
     allow-player-cramming-damage: false
@@ -164,6 +166,8 @@ world-settings:
     generator-settings:
       flat-bedrock: false
     entity-per-chunk-save-limit:
+      fireball: -1
+      small_fireball: -1
       hopper_minecart: 16
       minecart: 16
       experience_orb: 1

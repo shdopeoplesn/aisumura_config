@@ -407,9 +407,6 @@ users:
   o_bowen_o:
     group:
     - 6thbuild
-  night_red:
-    group:
-    - 6thbuild
   db91acde-301b-4ae3-9c4b-13c9c6cae076:
     group:
     - 6thbuild
@@ -467,7 +464,7 @@ users:
     group:
     - 6thbuild
     options:
-      name: PleaseDontCampMe
+      name: K1ng_Of_Thieves
   d89e90fe-210e-41ec-89b5-a0f963d72a0b:
     group:
     - 6thbuild
@@ -577,7 +574,7 @@ users:
     group:
     - 6thbuild
     options:
-      name: ouopinkhair729
+      name: weiclimjmc729
   0475b903-833d-4dea-a1b1-837d9788a672:
     group:
     - 6thbuild
@@ -671,4 +668,9 @@ users:
     - 6thbuild
     options:
       name: BlueTeach
+  a8897ffa-f703-44e9-80fd-70e039b436d7:
+    group:
+    - 6thbuild
+    options:
+      name: Night_red
 schema-version: 1
