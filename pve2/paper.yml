@@ -300,9 +300,11 @@ world-settings:
       sensor:
         villager:
           secondarypoisensor: 120
+          nearestlivingentitysensor: 360
       behavior:
         villager:
           validatenearbypoi: 120
+          acquirepoi: 360
   world_nether:
     anti-xray:
       max-chunk-section-index: 7
