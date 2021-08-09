@@ -25,6 +25,10 @@ UserRequested:
   Obsure:
     Misc:
       RemoveAllRenamedItems: false
+  NetherDamage:
+    DamagePlayersAboveNether: false
+    DamageDelay: 2
+    DamageAmount: 2
 Exploits:
   FishMod:
     WarnPlayerThenKickInsteadOfNotify: false
@@ -83,15 +87,7 @@ Exploits:
     MinecartBlockWhiteList: []
     RemoveExistingGlitchedMinecarts: false
     PreventHeadInsideBlocks: false
-  Enchants:
-    FixIllegalEnchants: false
-    RemoveCustomAttributes: false
-    AllowBypass: false
-    EnchantedItemWhitelist: []
-    RemoveUnbreakableFlag: false
-    CustomEnchantOverride: []
-    OnlyFunctionInWorlds: []
-    DestroyIllegallyEnchantedItemsInstead: false
+  Enchants: {}
   DropperDupe:
     BlockLoopedDroppers: false
   TNTDupe:
