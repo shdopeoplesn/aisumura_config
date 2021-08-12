@@ -174,7 +174,7 @@ world-settings:
       snowball: 1
       ender_pearl: 1
       arrow: 1
-      Villager: 16
+      villager: 16
     game-mechanics:
       scan-for-legacy-ender-dragon: true
       fix-curing-zombie-villager-discount-exploit: true
@@ -299,12 +299,12 @@ world-settings:
     tick-rates:
       sensor:
         villager:
-          secondarypoisensor: 120
-          nearestlivingentitysensor: 360
+          secondarypoisensor: 720
+          nearestlivingentitysensor: 1080
       behavior:
         villager:
-          validatenearbypoi: 120
-          acquirepoi: 360
+          validatenearbypoi: 720
+          acquirepoi: 1080
   world_nether:
     anti-xray:
       max-chunk-section-index: 7

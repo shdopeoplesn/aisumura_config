@@ -296,10 +296,10 @@ world-settings:
     tick-rates:
       sensor:
         villager:
-          secondarypoisensor: 40
+          secondarypoisensor: 120
       behavior:
         villager:
-          validatenearbypoi: -1
+          validatenearbypoi: 120
   world_nether:
     anti-xray:
       max-chunk-section-index: 7

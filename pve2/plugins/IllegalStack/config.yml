@@ -27,8 +27,8 @@ UserRequested:
       RemoveAllRenamedItems: false
   NetherDamage:
     DamagePlayersAboveNether: false
-    DamageDelay: 2
-    DamageAmount: 2
+    DamageDelay: 0
+    DamageAmount: 0
 Exploits:
   FishMod:
     WarnPlayerThenKickInsteadOfNotify: false
