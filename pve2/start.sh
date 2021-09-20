@@ -1,1 +1,1 @@
-screen java -server -Xmx10G -XX:+UseZGC -jar pve2_core.jar nogui
+screen java -server -Xmx15G -XX:+UseZGC -jar pve2_core.jar nogui

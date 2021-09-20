@@ -63,6 +63,7 @@ groups:
     inheritance:
     - default
     permissions:
+    - MPDB.*
     - CustomEnderChest.level.5
     - CustomEnderChest.commands
     - lagg.check
@@ -340,8 +341,7 @@ users:
     options:
       name: neutral_Lin
   88c9485b-ee67-415c-8c4a-64618034da70:
-    group:
-    - admin
+    group: []
     options:
       name: icecrabe
   13742ab4-0623-4afd-960f-d160b72447a4:
@@ -384,7 +384,7 @@ users:
   667d6b98-d0d7-40ce-afcd-6c479ba01e70:
     group: []
     options:
-      name: PanCheYu_
+      name: Taurus_Yu
   5b2e1707-557b-49ca-bfd0-5955854321c5:
     group: []
     options:

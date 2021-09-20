@@ -2138,3 +2138,735 @@ July 11 2021 (7:2:17) - broke a trapped nether portal @ Location{world=CraftWorl
 July 11 2021 (7:2:17) - §aRustWinner61936 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17793.915815640594,y=64.0,z=-24444.131396326226,pitch=4.2001376,yaw=40.161762}
 July 11 2021 (7:2:17) - §aRustWinner61936 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17794.695658053628,y=77.38145063328632,z=-24458.52662612484,pitch=29.099918,yaw=23.656403}
 July 11 2021 (7:2:17) - §aRustWinner61936 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17791.869843181055,y=83.99586466278599,z=-24459.21871311957,pitch=16.04996,yaw=-84.493164}
+July 11 2021 (7:2:17) - §ashihgood appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=16572.82904552842,y=63.0,z=8653.177610663148,pitch=37.602833,yaw=-55.288208}
+July 11 2021 (7:2:17) - §aApple5527924 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17736.999887715578,y=81.0,z=-24403.607987516316,pitch=-10.799763,yaw=108.74313}
+July 12 2021 (4:10:21) - §aRanMiAr appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17732.5,y=63.949999999999996,z=-24417.623,pitch=18.135365,yaw=176.05418}
+July 12 2021 (4:10:21) - §aRanMiAr is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17732.5,y=63.949999999999996,z=-24417.623,pitch=19.365713,yaw=177.38628}
+July 12 2021 (4:10:21) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-2453.1999778411296,y=63.0,z=-1677.5,pitch=59.524292,yaw=-157.68932}
+July 12 2021 (4:10:21) - §aHelloHello_owo is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17769.54291796822,y=63.875,z=-24425.359417978634,pitch=15.300199,yaw=91.00104}
+July 12 2021 (4:10:21) - §aHelloHello_owo is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17769.39276449496,y=63.875,z=-24425.531439899107,pitch=17.100006,yaw=90.101135}
+July 12 2021 (4:10:21) - §aRanMiAr appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17731.126805101412,y=63.0,z=-24418.304378012755,pitch=17.350756,yaw=-177.67079}
+July 12 2021 (4:10:21) - §aHelloHello_owo is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17769.437683214717,y=63.875,z=-24425.560504690795,pitch=16.799992,yaw=86.050995}
+July 12 2021 (4:10:21) - §aRustWinner61936 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17769.718404196923,y=63.875,z=-24425.65556119572,pitch=14.400038,yaw=89.269196}
+July 12 2021 (4:10:21) - §aRanMiAr appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17732.487573774237,y=63.0,z=-24418.72939196127,pitch=26.029818,yaw=175.66997}
+July 12 2021 (4:10:21) - §aRanMiAr appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17733.377,y=63.949999999999996,z=-24417.623,pitch=16.55057,yaw=171.47714}
+July 12 2021 (4:10:21) - §aRustWinner61936 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17732.33366057389,y=63.0,z=-24420.099705926667,pitch=18.600441,yaw=75.30704}
+July 12 2021 (4:10:21) - §aRustWinner61936 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17729.262473651987,y=64.0,z=-24418.836956182055,pitch=50.85049,yaw=-116.99274}
+July 12 2021 (4:10:21) - §aRustWinner61936 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17780.944458156704,y=63.0,z=-24443.16064131242,pitch=-15.5997505,yaw=63.020905}
+July 12 2021 (4:10:21) - Prevented SKY_PyKe from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-3268.377152025858,y=256.2967356006687,z=-4228.89409218674,pitch=10.050481,yaw=164.79921}
+July 12 2021 (4:10:21) - Prevented SKY_PyKe from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-3272.2417685921473,y=257.0860874804096,z=-4202.19382839794,pitch=9.450489,yaw=-26.905865}
+July 12 2021 (4:10:21) - §aHelloHello_owo appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17769.758421820152,y=64.0,z=-24466.676039439695,pitch=41.88725,yaw=35.968567}
+July 12 2021 (4:10:21) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=17787.69999998808,y=69.20000004768372,z=-24456.30000001192,pitch=46.799927,yaw=-12.979128}
+July 12 2021 (4:10:21) - Player yan981020 was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=9555.080758938044,y=459.722745453543,z=11031.791122400118,pitch=-10.199973,yaw=55.072002}
+July 13 2021 (7:1:50) - §asimon0711 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world_nether},x=6449.371820324112,y=21.0,z=-11044.719802563073,pitch=-45.58575,yaw=-65.463745}
+July 13 2021 (7:1:50) - §aApple5527924 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17782.116479812656,y=63.0,z=-24426.36862060095,pitch=1.2001716,yaw=111.72168}
+July 13 2021 (7:1:50) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=1525.6499432220457,y=57.0,z=-5517.699999988079,pitch=41.400036,yaw=73.93237}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-1.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=3.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=1.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=-3.0,y=61.0,z=0.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - §aBeAlo22 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-9998.298562769636,y=73.0,z=-14051.469899274,pitch=69.000145,yaw=89.849945}
+July 13 2021 (7:1:50) - §aApple5527924 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17790.460393247566,y=72.79938671992696,z=-24445.448299809435,pitch=7.0497546,yaw=81.90674}
+July 13 2021 (7:1:50) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=17765.42592940386,y=58.0,z=-24433.30000001192,pitch=56.099464,yaw=92.90378}
+July 13 2021 (7:1:50) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=17787.135616084615,y=69.13061434431984,z=-24456.30000001192,pitch=87.1498,yaw=-33.489494}
+July 13 2021 (7:1:50) - broke a trapped nether portal @ Location{world=CraftWorld{name=world_nether},x=-6283.5,y=74.0,z=-3183.163190563908,pitch=24.600048,yaw=55.19991}
+July 13 2021 (7:1:50) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=1525.0502494360305,y=57.0,z=-5517.41946513721,pitch=47.849167,yaw=7.411438}
+July 13 2021 (7:1:50) - §aTommyBai appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17901.31216551692,y=66.0,z=-24423.07499998808,pitch=20.850029,yaw=176.70102}
+July 13 2021 (7:1:50) - §aTommyBai appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17900.877337024693,y=66.0,z=-24423.07499998808,pitch=-4.3498797,yaw=176.40129}
+July 13 2021 (7:1:50) - §aTommyBai appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17908.870775408413,y=64.0,z=-24432.127290246175,pitch=-7.649806,yaw=109.64984}
+July 13 2021 (7:1:50) - §aTommyBai appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17902.662261369253,y=63.0,z=-24420.221265264543,pitch=-3.6001022,yaw=-179.67578}
+July 13 2021 (7:1:50) - §asimon0711 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world_nether},x=-2029.699999988079,y=37.07316733644291,z=616.6999999880791,pitch=86.607254,yaw=-179.52315}
+July 13 2021 (7:1:50) - §asimon0711 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world_nether},x=-2033.316097472967,y=58.74286184204104,z=610.9025196266527,pitch=56.814137,yaw=90.25253}
+July 13 2021 (7:1:50) - §asimon0711 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world_nether},x=-2030.383221830344,y=35.200000047683716,z=621.6999999880791,pitch=45.174614,yaw=-179.54016}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - Prevented the end portal from being broken using a dispenser @Location{world=CraftWorld{name=world_the_end},x=2.0,y=61.0,z=2.0,pitch=0.0,yaw=0.0}
+July 13 2021 (7:1:50) - §ahubert444 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=-18157.019595505888,y=68.0,z=5477.144618420884,pitch=51.89995,yaw=43.049835}
+July 13 2021 (7:1:50) - §ahubert444 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17842.213164788598,y=64.5,z=-24296.999644548072,pitch=50.25006,yaw=-145.19914}
+July 13 2021 (7:1:50) - §ahubert444 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17904.852533031964,y=64.0,z=-24439.01127390525,pitch=-3.749826,yaw=-66.44873}
+July 13 2021 (7:1:50) - §ananami_OuQ appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-15552.997728544327,y=63.0,z=-12695.580690397273,pitch=43.349655,yaw=116.56836}
+July 15 2021 (7:1:25) - §aJanuary_0819 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=8427.423148819074,y=63.0,z=-7404.300893752688,pitch=31.086826,yaw=-179.41174}
+July 15 2021 (7:1:25) - Player hubert444 was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=17826.399633251847,y=626.3192041495507,z=-24391.57402458047,pitch=-89.85,yaw=-11.099756}
+July 15 2021 (7:1:25) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=17837.960952707966,y=258.3965886405049,z=-24351.074291058663,pitch=39.29998,yaw=-28.94975}
+July 15 2021 (7:1:25) - Player hubert444 was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=17830.26546319698,y=267.3574965798505,z=-24302.488630519732,pitch=3.5999978,yaw=157.35016}
+July 15 2021 (7:1:25) - §ahubert444 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17871.75713625259,y=63.0,z=-24325.09745480098,pitch=-3.2999787,yaw=5.7001343}
+July 15 2021 (7:1:25) - §ahubert444 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17871.75713625259,y=63.0,z=-24325.09745480098,pitch=4.350023,yaw=7.650143}
+July 15 2021 (7:1:25) - §ahubert444 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17869.88928857143,y=63.0,z=-24327.514749899216,pitch=-2.999975,yaw=-28.199846}
+July 15 2021 (7:1:25) - Prevented SKY_PyKe from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-3298.7091797188664,y=256.52442408821366,z=-4200.582669829607,pitch=6.599418,yaw=10.739866}
+July 15 2021 (7:1:25) - Prevented SKY_PyKe from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-3301.277799869755,y=256.52442408821366,z=-4183.737562369182,pitch=26.549374,yaw=2.1898694}
+July 15 2021 (7:1:25) - §aYu_Kaoru appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=9498.196579048936,y=69.0,z=12032.628078619953,pitch=25.199926,yaw=-9.545807}
+July 15 2021 (7:1:25) - §aStevenLin3319 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-8585.016013452512,y=67.79478960120558,z=-14920.444367870845,pitch=36.108627,yaw=-167.2285}
+July 15 2021 (7:1:25) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-13423.300000011921,y=60.0,z=16898.69999998808,pitch=32.46227,yaw=-168.80469}
+July 15 2021 (7:1:25) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-13423.658537615844,y=60.0,z=16898.231720772743,pitch=32.905148,yaw=-55.032227}
+July 15 2021 (7:1:25) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-15633.502436649951,y=7.0,z=-769.0297438905081,pitch=-9.148909,yaw=8.82778}
+July 16 2021 (7:1:38) - Player iMMiTw attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+July 16 2021 (7:1:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=47930.68225956164,y=102.94450184272584,z=-2316.300000011921,pitch=73.5503,yaw=20.73453}
+July 16 2021 (7:1:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=47922.00081516403,y=106.76250078529395,z=-2315.484149318261,pitch=-53.399784,yaw=-50.642944}
+July 16 2021 (7:1:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=47931.46694273768,y=100.00042716184778,z=-2312.8606390680243,pitch=71.185715,yaw=77.536865}
+July 16 2021 (7:1:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=47931.05014181394,y=91.04870533600277,z=-2312.2153956620405,pitch=75.400986,yaw=-80.02722}
+July 16 2021 (7:1:38) - §aOfferedAxis3647 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17784.086648270928,y=64.0,z=-24447.64676672667,pitch=41.700012,yaw=-93.895294}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1820.913115579161,y=256.1661092609382,z=20115.488607449686,pitch=56.54962,yaw=-155.55008}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1809.2366416149173,y=255.79673560066868,z=20112.339194231416,pitch=33.749393,yaw=86.85428}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1809.3002079548285,y=255.1212968405392,z=20111.779265646663,pitch=32.399876,yaw=87.155945}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1804.3974797681385,y=255.4952008770059,z=20112.790193070225,pitch=39.90003,yaw=84.45471}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1815.5795666056117,y=255.1212968405392,z=20115.192880128914,pitch=28.799358,yaw=86.4079}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1819.5195757393476,y=255.3134407522295,z=20116.719586981882,pitch=53.699406,yaw=177.45764}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1819.5110177092067,y=256.02442408821366,z=20117.03288982833,pitch=53.699406,yaw=177.90771}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1820.2796809324504,y=255.9215999984741,z=20117.97222900987,pitch=35.249416,yaw=-97.79248}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1809.2866738341695,y=255.70657128263665,z=20116.199702349222,pitch=63.899426,yaw=123.90698}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1815.1419194276773,y=255.1212968405392,z=20117.725478819535,pitch=25.34921,yaw=95.41016}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1817.4292572458826,y=256.1212968405392,z=20117.6574157129,pitch=29.999178,yaw=-93.888916}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1813.0026077246537,y=255.4952008770059,z=20117.636167556433,pitch=20.849184,yaw=96.76282}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1817.3878609608319,y=256.1212968405392,z=20117.399311955018,pitch=31.949194,yaw=-80.98682}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1815.5075849516193,y=255.1212968405392,z=20117.06324299626,pitch=22.049162,yaw=89.408875}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1818.1041851818425,y=255.67647087614426,z=20117.429121832778,pitch=25.199251,yaw=-89.9939}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1821.4743515342357,y=256.0962621476149,z=20117.663107763045,pitch=22.94923,yaw=-89.24475}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1817.1825987875955,y=256.13634666825044,z=20117.71804484792,pitch=20.099234,yaw=-92.84485}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1816.6986393011796,y=256.33585016450104,z=20116.59535146716,pitch=15.749293,yaw=89.854614}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1818.3633142610006,y=255.67647087614426,z=20118.036210618175,pitch=11.399303,yaw=-96.745605}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1812.4279305210505,y=255.4952008770059,z=20117.12336221813,pitch=14.249272,yaw=82.80664}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1820.3998769484826,y=255.9215999984741,z=20117.413971934737,pitch=23.549286,yaw=-104.24414}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1815.7013614538907,y=256.02442408821366,z=20117.45920278615,pitch=17.6993,yaw=-90.59363}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1811.202466218304,y=256.2491870787446,z=20117.49972425374,pitch=17.6993,yaw=-90.59363}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1815.2653532927313,y=256.0013359791121,z=20117.3748510605,pitch=20.549252,yaw=-88.79309}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1808.9521114422873,y=256.2491870787446,z=20117.511878075766,pitch=14.099265,yaw=-89.69324}
+July 16 2021 (7:1:38) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1816.119876506888,y=255.4952008770059,z=20117.70210268696,pitch=27.14991,yaw=-86.555786}
+July 16 2021 (7:1:38) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1811.2116283542864,y=256.9269196620672,z=20117.8746913696,pitch=26.249912,yaw=-94.355896}
+July 16 2021 (7:1:38) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1812.6333890530489,y=255.4952008770059,z=20117.75437646024,pitch=18.899937,yaw=96.74402}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1807.2593809899854,y=255.4952008770059,z=20117.28175478068,pitch=17.700068,yaw=80.38306}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1812.3916779213546,y=255.906220100123,z=20117.865343678972,pitch=17.400068,yaw=86.98395}
+July 16 2021 (7:1:38) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1822.40249578292,y=257.0013359791121,z=20120.657390948894,pitch=47.549988,yaw=10.642944}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1821.3320439569668,y=256.1661092609382,z=20112.633515222144,pitch=35.850082,yaw=2.9867249}
+July 16 2021 (7:1:38) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-18190.158322444433,y=255.00133597911216,z=5486.691123897202,pitch=48.89994,yaw=68.39624}
+July 16 2021 (7:1:38) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-18187.819916063498,y=255.1661092609382,z=5493.163673339394,pitch=31.649935,yaw=-4.2060547}
+July 16 2021 (7:1:38) - Player hubert444 was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-18152.466478399067,y=262.0232185235051,z=5448.178258493989,pitch=-90.0,yaw=-96.908325}
+July 16 2021 (7:1:38) - Prevented hubert444 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-18192.40970508775,y=255.1661092609382,z=5486.531467916529,pitch=45.60011,yaw=40.945312}
+July 16 2021 (7:1:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-2454.41623183744,y=63.0,z=-1677.5,pitch=26.549849,yaw=-94.739845}
+July 16 2021 (7:1:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=17786.30000001192,y=69.20000004768372,z=-24456.30000001192,pitch=-34.050022,yaw=-142.65242}
+July 16 2021 (7:1:38) - §aiMMiTw appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-14763.326550319129,y=63.0,z=-4439.378067014571,pitch=38.187943,yaw=-92.97681}
+July 16 2021 (7:1:38) - §aiMMiTw appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-14763.382655979905,y=63.0,z=-4439.844907920743,pitch=34.26794,yaw=-114.276184}
+July 16 2021 (7:1:38) - §aiMMiTw appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-14763.810978454298,y=63.0,z=-4440.086987179098,pitch=42.630543,yaw=-170.7229}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-123445.76071785297,y=283.9809963318913,z=-24009.32283285528,pitch=77.24988,yaw=-27.231537}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-123615.9021731015,y=393.2429601207198,z=-24088.8002311633,pitch=0.59991205,yaw=92.32916}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-125168.56628869147,y=325.68088281176813,z=-24080.354187237157,pitch=-0.9001855,yaw=89.78244}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-125185.4425088248,y=308.380501511987,z=-24080.352159146976,pitch=-0.9001855,yaw=89.78244}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-125905.50435634781,y=337.4846723818363,z=-24184.36002673349,pitch=-1.0502666,yaw=91.13782}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-125923.30735962164,y=301.5160253297538,z=-24184.693847569826,pitch=-1.0502666,yaw=91.13782}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-128092.50568866104,y=523.5636833182372,z=-24081.252824744584,pitch=-0.89995474,yaw=90.22308}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-128105.10716013465,y=511.5755604478672,z=-24081.254211896812,pitch=-0.89995474,yaw=90.22308}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-128111.50149866735,y=492.82157457199634,z=-24081.256283951607,pitch=55.50015,yaw=79.27173}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-128115.59716633757,y=470.35214251444484,z=-24080.725907728214,pitch=84.30028,yaw=78.52161}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-128122.67807283228,y=396.04004248959495,z=-24079.30401190387,pitch=40.349854,yaw=81.97217}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-128133.30108742851,y=354.7032796161041,z=-24077.712834621536,pitch=40.04985,yaw=81.82214}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-129842.25723037498,y=376.8050211677338,z=-24035.212084141676,pitch=11.849836,yaw=156.46375}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-129851.6989180897,y=358.87291278818503,z=-24045.21121746367,pitch=8.099846,yaw=170.11597}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-129853.7142128986,y=323.2265661624772,z=-24052.86761369204,pitch=71.70014,yaw=166.36536}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-129854.53852585118,y=298.25216332241644,z=-24056.130804441007,pitch=73.50016,yaw=164.86511}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-129855.56315690187,y=267.7278951075599,z=-24059.991075447684,pitch=66.45009,yaw=166.0653}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-149483.42791324464,y=300.1881286636289,z=-24550.56443364588,pitch=-43.050056,yaw=86.55001}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-149496.2817465862,y=314.11342583821147,z=-24549.79878131104,pitch=-24.0,yaw=90.60005}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-149503.47437284634,y=302.9137084992054,z=-24549.43385038265,pitch=29.549915,yaw=85.8}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-149506.81639398355,y=295.66785052904737,z=-24549.191497717777,pitch=36.749958,yaw=85.950005}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-149695.85798013798,y=440.59491599692603,z=-24553.130595700706,pitch=-24.750078,yaw=103.50018}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-149972.05574796416,y=365.4132601137171,z=-24560.12225746296,pitch=-10.050115,yaw=89.70004}
+July 16 2021 (7:1:38) - Prevented OpKanata from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-149995.50165786667,y=287.31855268052897,z=-24560.16175928863,pitch=-3.1501164,yaw=92.10007}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-149786.41933002564,y=272.82577099107436,z=-24567.78862356755,pitch=2.9995785,yaw=90.45477}
+July 16 2021 (7:1:38) - Player OpKanata was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-150189.70980986598,y=262.0119488587082,z=-24569.271134139613,pitch=0.8995962,yaw=90.754776}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2008.4281615308682,y=255.79673560066868,z=20142.76321241352,pitch=79.19992,yaw=-84.14765}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2008.3358514432066,y=255.4952008770059,z=20128.45708905387,pitch=35.9998,yaw=-87.89288}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1996.8392426019682,y=255.4952008770059,z=20132.379668100763,pitch=36.60135,yaw=89.85707}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2006.627380992188,y=256.02442408821366,z=20141.229347898297,pitch=38.70016,yaw=-119.84424}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2008.7749454903378,y=255.67647087614426,z=20133.54838376514,pitch=25.199947,yaw=-107.39483}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2009.1351134399185,y=255.67647087614426,z=20137.073736032813,pitch=17.699955,yaw=-86.69412}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2003.431175825734,y=255.6300715317701,z=20138.292865806045,pitch=19.049953,yaw=-81.144135}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2010.261137258621,y=255.76636799395752,z=20133.658825910064,pitch=23.099993,yaw=-108.74585}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2010.5034276705267,y=255.9215999984741,z=20134.292689517406,pitch=11.850201,yaw=-136.49774}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1987.60142890677,y=257.2522033402537,z=20133.44867993564,pitch=52.05058,yaw=-133.95122}
+July 16 2021 (7:1:38) - §aKFC_LOOL appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47086.29729170348,y=63.0,z=-3036.345109245514,pitch=31.440063,yaw=-89.63739}
+July 16 2021 (7:1:38) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-2011.2967817524845,y=255.9215999984741,z=20143.58754225825,pitch=43.499756,yaw=-2.6973267}
+July 16 2021 (7:1:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=50431.30000001192,y=63.0,z=735.709957354468,pitch=66.29996,yaw=120.002}
+July 16 2021 (7:1:38) - §aHaHa_1114 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-2470.93387385247,y=12.0,z=-1730.1216368643575,pitch=18.070097,yaw=145.8623}
+July 16 2021 (7:1:38) - Stopped Retraction Dupe Glitch & Removed Piston @ Location{world=CraftWorld{name=world},x=47069.0,y=66.0,z=-3020.0,pitch=0.0,yaw=0.0}  RAIL ACTIVATOR_RAIL RAIL RAIL RAIL
+July 18 2021 (7:1:25) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-2453.392432168546,y=63.0,z=-1677.300000011921,pitch=59.70026,yaw=-110.79663}
+July 18 2021 (7:1:25) - broke a trapped nether portal @ Location{world=CraftWorld{name=world_nether},x=2201.5,y=72.0,z=-3056.0222234085413,pitch=20.09998,yaw=-96.45004}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126943.16271125939,y=65.88031109150177,z=-24826.842921444408,pitch=48.73672,yaw=1.6965332}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126952.14790324116,y=65.88031109150177,z=-24819.830122278054,pitch=30.878542,yaw=-85.56543}
+July 18 2021 (7:1:25) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-2452.531420328144,y=63.0,z=-1677.5,pitch=1.1026859E-6,yaw=67.68167}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126956.83216474573,y=67.35076269711452,z=-24831.176241161644,pitch=41.89782,yaw=-31.63498}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126956.83216474573,y=67.35076269711452,z=-24831.176241161644,pitch=37.642235,yaw=-33.5347}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126922.65749672694,y=67.35076269711452,z=-24811.77008947639,pitch=47.97742,yaw=104.61127}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126920.89542955572,y=67.35076269711452,z=-24803.56972053559,pitch=44.481953,yaw=94.88437}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126932.43602890802,y=67.35076269711452,z=-24816.107991482648,pitch=48.737545,yaw=1.6826782}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126918.11780430222,y=67.35076269711452,z=-24817.879821660237,pitch=45.469704,yaw=47.731873}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126949.5422139821,y=66.88967976578512,z=-24808.696528506098,pitch=45.014187,yaw=-85.368835}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126944.20893166118,y=67.52082518084342,z=-24799.005055575853,pitch=54.513027,yaw=122.07808}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126929.41740148427,y=68.64332232459617,z=-24803.35791705287,pitch=48.35812,yaw=-104.48131}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126932.30195116645,y=66.93679416353856,z=-24808.167677359834,pitch=45.46832,yaw=-98.59979}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126930.82388476614,y=66.93679416353856,z=-24822.070859827032,pitch=47.90008,yaw=-45.63562}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126930.82075034601,y=66.93679416353856,z=-24822.070859827032,pitch=47.90008,yaw=-45.71161}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126938.61330572268,y=66.93679416353856,z=-24820.004775492725,pitch=45.848213,yaw=-39.100586}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126943.97906800933,y=66.93679416353856,z=-24818.424504845352,pitch=40.75685,yaw=4.5929565}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126943.97906800933,y=66.93679416353856,z=-24818.424504845352,pitch=41.36479,yaw=1.7813721}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126939.67199523874,y=66.93679416353856,z=-24826.819762419385,pitch=41.89692,yaw=0.26159668}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126925.15631443607,y=68.43186018298555,z=-24811.269259446675,pitch=65.68212,yaw=-1.7141113}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126925.17689717705,y=68.43186018298555,z=-24818.855186595552,pitch=65.68212,yaw=-1.7141113}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126931.11296538144,y=68.43186018298555,z=-24820.790503552776,pitch=65.68212,yaw=-1.7141113}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126937.24121959225,y=68.43186018298555,z=-24813.079552341238,pitch=53.14357,yaw=-81.95868}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126934.65242583609,y=68.06315872833467,z=-24808.19412535409,pitch=53.14357,yaw=-82.11066}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126935.21882036544,y=68.06315872833467,z=-24803.911019462463,pitch=53.14357,yaw=-82.11066}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126937.61556297919,y=68.43813589224467,z=-24805.643494221094,pitch=47.520126,yaw=-94.572815}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126936.95015187252,y=68.43813589224467,z=-24806.536041657226,pitch=47.520126,yaw=-94.572815}
+July 18 2021 (7:1:25) - §aOfferedAxis3647 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17859.774619147982,y=64.0,z=-24256.953241124615,pitch=-2.1001558,yaw=166.7456}
+July 18 2021 (7:1:25) - §aOfferedAxis3647 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=17861.06342739628,y=64.0,z=-24262.820141399672,pitch=0.29983568,yaw=128.19464}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126937.31787181026,y=63.09375,z=-24804.406635925327,pitch=19.327549,yaw=0.19482422}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126931.16086432768,y=67.83692126936853,z=-24809.573718625674,pitch=47.976536,yaw=-129.21967}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126932.17528197494,y=67.83692126936853,z=-24814.97119766571,pitch=41.289192,yaw=-116.98547}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126932.17528197494,y=67.46821981471766,z=-24814.97119766571,pitch=51.776196,yaw=-165.08563}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126939.50896722752,y=67.46821981471766,z=-24816.901223997244,pitch=51.776196,yaw=-165.08563}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126938.83299284802,y=67.46821981471766,z=-24817.750478776074,pitch=51.39618,yaw=62.769897}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126936.1199948675,y=67.46821981471766,z=-24812.4673605642,pitch=51.39618,yaw=62.769897}
+July 18 2021 (7:1:25) - §apotatojeff appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-126921.53936041585,y=67.46821981471766,z=-24816.638058932334,pitch=51.39618,yaw=62.769897}
+July 18 2021 (7:1:25) - Stopped Retraction Dupe Glitch & Removed Piston @ Location{world=CraftWorld{name=world},x=47077.0,y=72.0,z=-3048.0,pitch=0.0,yaw=0.0}  RAIL
+July 18 2021 (7:1:25) - Stopped Retraction Dupe Glitch & Removed Piston @ Location{world=CraftWorld{name=world},x=47077.0,y=72.0,z=-3049.0,pitch=0.0,yaw=0.0}  RAIL
+July 18 2021 (7:1:25) - §aKFC_LOOL appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47086.243883189876,y=63.0,z=-3037.491755233202,pitch=43.049656,yaw=-99.603516}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47091.72405649794,y=63.09375,z=-3037.5537066376514,pitch=13.200109,yaw=-73.50009}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47091.72405649794,y=63.09375,z=-3037.5537066376514,pitch=17.550138,yaw=-92.70007}
+July 18 2021 (7:1:25) - §aPlsNotMyAss appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=9227.213341223161,y=63.0,z=12038.772347150736,pitch=17.699512,yaw=91.14862}
+July 18 2021 (7:1:25) - §aPlsNotMyAss appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=9226.278998871436,y=63.0,z=12038.491037775297,pitch=21.749945,yaw=69.75067}
+July 18 2021 (7:1:25) - §aJia_Janis is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=12669.394617014905,y=58.875,z=10874.300000011921,pitch=10.649021,yaw=-179.85419}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47105.66751439893,y=65.6597267214837,z=-3038.9575686611574,pitch=52.8,yaw=-87.30469}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47098.77631523884,y=65.6597267214837,z=-3038.9348266739175,pitch=43.050014,yaw=-80.40503}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47101.057748480365,y=68.90772255955267,z=-3037.3866911934047,pitch=55.050076,yaw=-134.4007}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47101.057748480365,y=68.90772255955267,z=-3037.3866911934047,pitch=49.80009,yaw=-125.25075}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47097.407948790446,y=65.03257874544451,z=-3039.7934991889038,pitch=40.800262,yaw=-95.97998}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47097.407948790446,y=65.03257874544451,z=-3039.7934991889038,pitch=34.650272,yaw=-87.43054}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47097.407948790446,y=65.03257874544451,z=-3039.7934991889038,pitch=29.850285,yaw=-99.430664}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47097.407948790446,y=65.03257874544451,z=-3039.7934991889038,pitch=34.95029,yaw=-110.080444}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47096.95051791234,y=65.32002285088733,z=-3039.2394966143515,pitch=37.5004,yaw=-110.07759}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47096.33837014128,y=66.07115766263729,z=-3039.2034955988997,pitch=51.450436,yaw=-116.227005}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47096.33837014128,y=66.07115766263729,z=-3039.2034955988997,pitch=37.650455,yaw=-117.27693}
+July 18 2021 (7:1:25) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47093.623,y=63.949999999999996,z=-3041.5,pitch=22.95027,yaw=-85.66202}
+July 18 2021 (7:1:25) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47093.623,y=63.949999999999996,z=-3041.5,pitch=87.75028,yaw=-61.512016}
+July 18 2021 (7:1:25) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47147.32917384229,y=69.0,z=-3013.746835277508,pitch=33.44997,yaw=110.23654}
+July 18 2021 (7:1:25) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47122.0753362298,y=63.0,z=-3021.839628456039,pitch=43.79997,yaw=159.28621}
+July 20 2021 (7:2:17) - §ayukevin appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47924.80358755817,y=82.18187038724776,z=-3041.3139740060965,pitch=14.100647,yaw=-78.585304}
+July 20 2021 (7:2:17) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47097.70727116445,y=63.09375,z=-3040.5293095353327,pitch=12.749962,yaw=100.63574}
+July 20 2021 (7:2:17) - §aKFC_LOOL appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47094.47554723591,y=64.0,z=-3040.6089204025675,pitch=2.999821,yaw=132.60156}
+July 20 2021 (7:2:17) - §aKFC_LOOL is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47094.47554723591,y=64.0,z=-3040.6089204025675,pitch=17.399803,yaw=141.60278}
+July 20 2021 (7:2:17) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47094.56831539521,y=64.0,z=-3040.9684798903936,pitch=9.300188,yaw=145.18658}
+July 20 2021 (7:2:17) - §asunly_5269 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47098.25904163409,y=63.09375,z=-3038.181609286746,pitch=-7.349972,yaw=132.13669}
+July 20 2021 (7:2:17) - §aKFC_LOOL appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47094.79014955791,y=64.0,z=-3040.911828899526,pitch=26.999792,yaw=-57.59674}
+July 20 2021 (7:2:17) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47098.25904163409,y=63.09375,z=-3038.181609286746,pitch=88.35,yaw=-114.61365}
+July 20 2021 (7:2:17) - §aKFC_LOOL is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47083.611895313246,y=62.9375,z=-3029.699744576745,pitch=22.04996,yaw=-170.24751}
+July 20 2021 (7:2:17) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-3927.0657055710553,y=21.0,z=-1436.5080199271315,pitch=34.650085,yaw=174.97418}
+July 20 2021 (7:2:17) - Prevented RustWinner61936 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=17905.83799264452,y=256.7967356006687,z=-23419.36179643732,pitch=69.90037,yaw=-101.55999}
+July 20 2021 (7:2:17) - Stopped Retraction Dupe Glitch & Removed Piston @ Location{world=CraftWorld{name=world},x=17795.0,y=68.0,z=-24381.0,pitch=0.0,yaw=0.0}  RAIL POWERED_RAIL POWERED_RAIL
+July 20 2021 (7:2:17) - Stopped Retraction Dupe Glitch & Removed Piston @ Location{world=CraftWorld{name=world},x=17795.0,y=68.0,z=-24381.0,pitch=0.0,yaw=0.0}  POWERED_RAIL POWERED_RAIL RAIL
+July 20 2021 (7:2:17) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47093.623,y=63.949999999999996,z=-3039.5,pitch=88.049934,yaw=-82.65979}
+July 20 2021 (7:2:17) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47036.02636348529,y=35.0,z=-3348.1461810330466,pitch=59.40008,yaw=162.43445}
+July 20 2021 (7:2:17) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47036.02636348529,y=35.0,z=-3348.1461810330466,pitch=64.95009,yaw=-172.66563}
+July 20 2021 (7:2:17) - §a09_K is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=14280.35012459194,y=69.0,z=-3108.699812348884,pitch=27.44991,yaw=148.6517}
+July 20 2021 (7:2:17) - §asunly_5269 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47093.623,y=63.949999999999996,z=-3039.5,pitch=27.600021,yaw=-90.162926}
+July 22 2021 (7:2:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-3927.4107283167887,y=21.0,z=-1436.477767900474,pitch=19.499748,yaw=41.67984}
+July 22 2021 (7:2:38) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-2453.486709855934,y=63.0,z=-1677.300000011921,pitch=9.369999,yaw=-2.7900002}
+July 22 2021 (7:2:38) - §aApple5527924 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17770.524709670168,y=63.875,z=-24425.36960922067,pitch=10.199966,yaw=88.85364}
+July 22 2021 (7:2:38) - §aApple5527924 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17771.143502463026,y=64.0,z=-24425.62577223971,pitch=11.249955,yaw=89.603676}
+July 22 2021 (7:2:38) - §aApple5527924 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17771.22802048262,y=64.0,z=-24425.401404131222,pitch=9.149981,yaw=91.703674}
+July 22 2021 (7:2:38) - §aApple5527924 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=17769.68401841099,y=63.875,z=-24425.629435775598,pitch=15.000112,yaw=90.80105}
+July 23 2021 (7:2:1) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-15501.5,y=82.0,z=-12750.5,pitch=0.0,yaw=0.0}
+July 23 2021 (7:2:1) - broke a trapped nether portal @ Location{world=CraftWorld{name=world_nether},x=1192.474291061271,y=42.12160004615784,z=1508.3735275560464,pitch=5.8500123,yaw=7.2547913}
+July 23 2021 (7:2:1) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-1111.0825563807273,y=226.2568324982984,z=-2125.552570144166,pitch=35.99142,yaw=-24.710754}
+July 25 2021 (7:2:3) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-3927.37905552166,y=21.0,z=-1436.6197820944753,pitch=59.700485,yaw=-112.45734}
+July 25 2021 (7:2:3) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-3926.8344568031825,y=21.0,z=-1436.6060738019646,pitch=7.3504443,yaw=173.9024}
+July 25 2021 (7:2:3) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-10015.99772206833,y=52.0,z=739.5,pitch=23.165697,yaw=-84.94531}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-122307.5,y=64.0,z=-24363.5,pitch=0.0,yaw=180.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-122307.5,y=64.0,z=-24363.5,pitch=0.0,yaw=180.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-122307.5,y=64.0,z=-24365.5,pitch=0.0,yaw=0.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-122307.5,y=64.0,z=-24365.5,pitch=0.0,yaw=0.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-122307.5,y=63.0,z=-24363.5,pitch=0.0,yaw=0.0}
+July 25 2021 (7:2:3) - Player _Lifeloser was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=11905.54027124044,y=338.47709608462077,z=12285.546313163168,pitch=15.0000925,yaw=-77.48846}
+July 25 2021 (7:2:3) - Player _Lifeloser was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=12924.021194455521,y=342.91190811332024,z=13102.908570008109,pitch=-1.9499012,yaw=-51.238277}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17758.5,y=62.5,z=-24367.5,pitch=0.0,yaw=-135.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17758.5,y=62.5,z=-24366.5,pitch=0.0,yaw=-135.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17758.5,y=62.5,z=-24368.5,pitch=0.0,yaw=-135.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17758.5,y=62.5,z=-24368.5,pitch=0.0,yaw=-45.0}
+July 25 2021 (7:2:3) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17758.5,y=62.5,z=-24368.5,pitch=0.0,yaw=-135.0}
+July 27 2021 (7:2:5) - §ayukevin is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=47844.624132340614,y=24.0,z=-3000.7993848815677,pitch=11.099961,yaw=4.2007446}
+July 27 2021 (7:2:5) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-1686.5,y=58.0,z=-1706.74,pitch=0.0,yaw=0.0}
+July 27 2021 (7:2:5) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-1706.5,y=60.0,z=-1676.5,pitch=0.0,yaw=-180.0}
+July 27 2021 (7:2:5) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-1677.5,y=56.5,z=-1697.5,pitch=0.0,yaw=90.0}
+July 27 2021 (7:2:5) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-8619.5,y=82.0,z=-14945.5,pitch=0.0,yaw=-90.0}
+July 27 2021 (7:2:5) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-8620.5,y=82.0,z=-14946.5,pitch=0.0,yaw=90.0}
+July 27 2021 (7:2:5) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-1676.5,y=58.5,z=-1702.5,pitch=0.0,yaw=0.0}
+July 27 2021 (7:2:5) - Fixed durability on: PLAYER_HEAD triggered by player: Torlise.
+July 27 2021 (7:2:5) - Fixed durability on: PLAYER_HEAD triggered by player: Torlise.
+July 27 2021 (7:2:5) - broke a trapped nether portal @ Location{world=CraftWorld{name=world_nether},x=-1281.4804001904815,y=66.0,z=1661.0866617794368,pitch=72.89993,yaw=179.7511}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17826.5,y=62.5,z=-24245.5,pitch=0.0,yaw=180.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17826.5,y=62.375,z=-24245.5,pitch=0.0,yaw=135.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17826.5,y=62.375,z=-24245.5,pitch=0.0,yaw=-180.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17826.5,y=62.375,z=-24245.5,pitch=0.0,yaw=-180.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17824.5,y=62.375,z=-24246.5,pitch=0.0,yaw=90.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17824.5,y=62.375,z=-24246.5,pitch=0.0,yaw=-180.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17825.5,y=62.375,z=-24246.5,pitch=0.0,yaw=-90.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17825.5,y=62.375,z=-24246.5,pitch=0.0,yaw=-90.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17832.5,y=62.5,z=-24246.5,pitch=0.0,yaw=-90.0}
+July 29 2021 (7:1:43) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17833.5,y=62.375,z=-24246.5,pitch=0.0,yaw=-90.0}
+July 30 2021 (7:1:33) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-8682.5,y=39.0,z=-14887.5,pitch=0.0,yaw=180.0}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=18242.82572733807,y=71.0,z=-23883.632018923458,pitch=44.501488,yaw=6.316162}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=18242.30000001192,y=71.0,z=-23883.30000001192,pitch=64.6801,yaw=-142.56451}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-11754.300000011921,y=63.0,z=-20600.34699729011,pitch=31.04986,yaw=112.79846}
+July 30 2021 (7:1:33) - §aioCPX2124 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=9423.559994777796,y=63.0,z=11993.41678472126,pitch=30.150024,yaw=90.75015}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-11754.300000011921,y=63.0,z=-20600.30000001192,pitch=71.249985,yaw=-75.45003}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-11754.300000011921,y=63.0,z=-20601.342978871828,pitch=13.800026,yaw=6.598337}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-11754.300000011921,y=63.0,z=-20601.20875628013,pitch=43.64999,yaw=-16.350159}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-11754.300000011921,y=63.0,z=-20600.309436263815,pitch=-4.1999764,yaw=106.65004}
+July 30 2021 (7:1:33) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-3926.65990770093,y=21.0,z=-1436.300000011921,pitch=20.40008,yaw=163.70502}
+August 1 2021 (7:1:54) - §aDronning_King appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-8451.204504708128,y=68.99117240567243,z=-16020.644710767452,pitch=21.953835,yaw=-79.911514}
+August 1 2021 (7:1:54) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=-5155.228719390225,y=138.8312985930328,z=-650.3254890574053,pitch=32.99926,yaw=-81.57389}
+August 1 2021 (7:1:54) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17824.5,y=62.375,z=-24245.5,pitch=0.0,yaw=-180.0}
+August 1 2021 (7:1:54) - §aDesmoMoxley appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=16424.903842869648,y=78.90197552467247,z=-19668.37488152716,pitch=70.80075,yaw=85.608765}
+August 1 2021 (7:1:54) - §acola135 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=16423.110121085658,y=101.0,z=-19686.694739582927,pitch=7.501607,yaw=90.72467}
+August 3 2021 (7:1:17) - Player nanami_OuQ attempted to place a tripwire hook on a trap door, it has been removed (PreventTripwireDupe = true)
+August 3 2021 (7:1:17) - Player YehJeremy921 was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-5438.018877649144,y=323.37045271257546,z=-14656.212370371917,pitch=-87.30009,yaw=-63.801125}
+August 3 2021 (7:1:17) - Prevented YehJeremy921 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-5437.511630031908,y=320.0132601045158,z=-14655.962747295323,pitch=-33.900085,yaw=-61.85112}
+August 3 2021 (7:1:17) - Prevented Howard125 from activating an elytra while above the max build height. @ Location{world=CraftWorld{name=world},x=-1985.7945353386112,y=256.7967356006687,z=20128.680199621052,pitch=17.099884,yaw=-99.434456}
+August 3 2021 (7:1:17) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=14579.22414470791,y=29.0,z=-12779.699999988079,pitch=52.04993,yaw=43.247032}
+August 3 2021 (7:1:17) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17834.5,y=63.0,z=-24270.5,pitch=0.0,yaw=-90.0}
+August 3 2021 (7:1:17) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=17834.5,y=63.0,z=-24270.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - §ayukevin appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47904.5679457197,y=72.61300068325568,z=-2408.6510455379907,pitch=56.250244,yaw=-140.08215}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-135.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-135.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=135.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-45.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-45.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4228.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4227.5,pitch=0.0,yaw=-90.0}
+August 8 2021 (7:1:31) - Prevented an entity (armor stand/end crystal/minecart) from being pushed into another entity @ Location{world=CraftWorld{name=world},x=-3278.5,y=52.0,z=-4227.5,pitch=0.0,yaw=-90.0}
+August 10 2021 (7:1:36) - §aiMMiTw appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-1583.7576325047687,y=81.86445978564207,z=-1716.983200540666,pitch=82.68233,yaw=-29.114136}
+August 10 2021 (7:1:36) - §ayukevin appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=47925.06317762854,y=84.94085541746244,z=-3040.8445278474583,pitch=19.501514,yaw=-74.23285}
+August 12 2021 (7:2:28) - §aUJ_SHEN appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-2455.68111364183,y=8.0,z=-1744.424051716497,pitch=-52.1998,yaw=-40.111084}
+August 12 2021 (7:2:28) - §aUJ_SHEN appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-2455.458960490432,y=12.08551890690381,z=-1741.3952707336862,pitch=54.60032,yaw=-150.20654}
+August 12 2021 (7:2:28) - §aray2015 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-2457.666254618132,y=14.493907480229485,z=-1753.5515544433295,pitch=27.449831,yaw=-175.14607}
+August 13 2021 (7:1:37) - §aTomeest appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=48585.500132856934,y=94.0,z=-342.7735977527211,pitch=48.600014,yaw=-88.50037}
+August 13 2021 (7:1:37) - §aTomeest appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=48645.5,y=79.95,z=-332.5,pitch=35.249992,yaw=-1.6515832}
+August 13 2021 (7:1:37) - §aTomeest appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=48645.5,y=79.95,z=-332.5,pitch=15.900019,yaw=-0.45157588}
+August 15 2021 (7:1:39) - §aDesmoMoxley appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=16483.08477907805,y=103.8738695848567,z=-19758.591612976554,pitch=78.89957,yaw=-91.676346}
+August 15 2021 (7:1:39) - Player nanami_OuQ was using an elytra above the max build height, disabling glide. @ Location{world=CraftWorld{name=world},x=-1372.8671256630157,y=271.775395677529,z=-2070.6767473046593,pitch=16.650015,yaw=-65.2782}
+August 17 2021 (7:1:28) - §aCine1234 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-38589.998575363694,y=68.0,z=-26623.6553784511,pitch=26.100016,yaw=-165.47577}
+August 17 2021 (7:1:28) - §aCine1234 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=-38579.524793895485,y=69.0,z=-26564.55142055735,pitch=88.94999,yaw=139.4364}
+August 17 2021 (7:1:28) - §aCine1234 is spam fishing! ~casts~ casts without a 2 second break! @ Location{world=CraftWorld{name=world},x=-38579.524793895485,y=69.0,z=-26564.55142055735,pitch=90.0,yaw=139.4364}
+August 19 2021 (11:57:15) - §aEC_Llama appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-5614.383241130144,y=5.0,z=-15439.150147259616,pitch=23.295958,yaw=-6.191428}
+August 19 2021 (7:1:25) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=16985.5,y=62.0,z=-15148.08492210028,pitch=21.457088,yaw=-146.23584}
+August 20 2021 (7:0:54) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=609.8365532194558,y=10.0,z=-1063.300000011921,pitch=22.349844,yaw=179.53896}
+August 20 2021 (7:0:54) - broke a trapped nether portal @ Location{world=CraftWorld{name=world},x=609.7012305834148,y=10.0,z=-1063.300000011921,pitch=23.849789,yaw=-169.3611}
+August 20 2021 (7:0:54) - §aCine1234 appears to be using an autofishing mod..  4 caught within 0.3 blocks of each other @ Location{world=CraftWorld{name=world},x=-38589.72672302934,y=68.0,z=-26624.26255690297,pitch=27.899918,yaw=-151.642}
