@@ -1,1 +1,1 @@
-screen java -jar -Xmx15G pvp_core.jar
+screen java -jar -Xmx8G pvp_core.jar
