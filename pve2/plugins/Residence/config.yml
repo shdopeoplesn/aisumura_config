@@ -32,6 +32,8 @@ Global:
     # When enabled we will load data from every single world file even if world doesn't exist but might be loaded later on
     # Usually only useful when you have multiverse plugin which loads worlds durring server work time
     LoadEveryWorld: false
+    # While enabled we will avoid showing extra feedback lines on startup
+    CleanerStartupLog: true
     # This will slightly change behavior of groups file CanTeleport section which will include server owner into check
     # When this is set to false and CanTeleport set to false, players will not have option to teleport to other player residences, only to their own
     # When this is set to true and CanTeleport set to false, players will not have option to teleport to residences in general
@@ -491,6 +493,38 @@ DynMap:
   Fill:
     Opacity: 0.3
     Color: '#FFFF00'
+    ForRent: '#33cc33'
+    Rented: '#99ff33'
+    ForSale: '#0066ff'
+  # Shows only regions on this list
+  VisibleRegions: []
+  # Hides region on map even if its not hidden in game
+  HiddenRegions: []
+Pl3xMap:
+  # Enables or disable Pl3xMap Support
+  Use: false
+  # When set to true we will hide residence areas by default on Pl3xMap window
+  # Residences can still be enabled throw provided Pl3xMap option on left top side
+  HideByDefault: false
+  # Shows or hides residence flags
+  ShowFlags: true
+  # When enabled default flags will not be included in residence overview
+  ExcludeDefaultFlags: true
+  # If set true, residence with hidden flag set to true will be hidden from Pl3xMap
+  HideHidden: true
+  Layer:
+    # How deep to go into subzones to show
+    SubZoneDepth: 2
+  Border:
+    # Color of border. Pick color from this page http://www.w3schools.com/colors/colors_picker.asp
+    Color: '#FF0000'
+    # Transparency. 0.3 means that only 30% of color will be visible
+    Opacity: 0.3
+    # Border thickness
+    Weight: 3
+  Fill:
+    Opacity: 0.3
+    Color: '#FF0000'
     ForRent: '#33cc33'
     Rented: '#99ff33'
     ForSale: '#0066ff'

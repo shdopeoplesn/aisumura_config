@@ -343,7 +343,7 @@ users:
   88c9485b-ee67-415c-8c4a-64618034da70:
     group: []
     options:
-      name: icecrabe
+      name: Domico
   13742ab4-0623-4afd-960f-d160b72447a4:
     group:
     - admin
@@ -363,7 +363,7 @@ users:
     group:
     - admin
     options:
-      name: Kerorolin
+      name: Domico
   3904d24d-2101-453c-9368-d596763cdfda:
     options:
       name: LosDomico
