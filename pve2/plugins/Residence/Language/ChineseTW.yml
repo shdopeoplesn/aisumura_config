@@ -31,6 +31,8 @@ Language:
     NameCharacters: '&c名字中包含無效字元...'
     FromConsole: '&cYou can only use this in the console!'
     Ingame: '&cYou can only use this in game!'
+    PortalDestination: '&cPortal destination is in restricted zone. Portal creation
+      canceled. &7Find new location'
   Area:
     Exists: '&c區域名已存在.'
     Create: '&e領地區域創建成功, ID &6%1'
@@ -304,6 +306,9 @@ Language:
     removedBlock: '&eRemoved blocked command for &6%1 &eresidence'
     Blocked: '&eBlocked commands: &6%1'
     Allowed: '&eAllowed commands: &6%1'
+    Parsed: '%1'
+    PlacehlderList: '&e%1. &6%2'
+    PlacehlderResult: ' &eresult: &6%1'
   Rentable:
     Land: '&e出租領地: &6'
     AllowRenewing: '&eCan Renew: &6%1'
@@ -1777,3 +1782,8 @@ CommandHelp:
           - '&e用法: &6/resload'
           - 該命令不安全! 它不會先保存領地狀態.
           - 對領地做出改變後重新載入存檔.
+        placeholders:
+          Info:
+          - '&eUsage: &6/res placeholders (parse) (placeholder) (playerName)'
+          Description: List of placeholders
+          parse: '[result]'

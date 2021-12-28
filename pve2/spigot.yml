@@ -63,6 +63,8 @@ stats:
   forced-stats: {}
 world-settings:
   default:
+    below-zero-generation-in-existing-chunks: true
+    simulation-distance: default
     thunder-chance: 100000
     verbose: false
     hopper-amount: 3
@@ -86,7 +88,7 @@ world-settings:
     max-tnt-per-tick: 100
     enable-zombie-pigmen-portal-spawns: true
     item-despawn-rate: 6000
-    view-distance: 3
+    view-distance: 8
     wither-spawn-sound-radius: 0
     arrow-despawn-rate: 1200
     trident-despawn-rate: 1200
@@ -100,6 +102,10 @@ world-settings:
       exp: 6
       item: 5
     growth:
+      twistingvines-modifier: 100
+      weepingvines-modifier: 100
+      cavevines-modifier: 100
+      glowberry-modifier: 100
       cactus-modifier: 100
       cane-modifier: 100
       melon-modifier: 100

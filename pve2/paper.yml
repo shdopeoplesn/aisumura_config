@@ -12,7 +12,7 @@
 
 verbose: false
 use-display-name-in-quit-message: false
-config-version: 23
+config-version: 24
 timings:
   url: https://timings.aikar.co/
   enabled: true
@@ -118,6 +118,11 @@ settings:
         action: DROP
 world-settings:
   default:
+    anticheat:
+      obfuscation:
+        items:
+          hide-itemmeta: false
+          hide-durability: false
     piglins-guard-chests: true
     map-item-frame-cursor-update-interval: 10
     split-overstacked-loot: true
@@ -244,8 +249,30 @@ world-settings:
       MinimumTicks: 100
       MaximumTicks: 600
     despawn-ranges:
-      soft: 32
-      hard: 128
+      axolotls:
+        soft: 32
+        hard: 128
+      monster:
+        soft: 32
+        hard: 128
+      creature:
+        soft: 32
+        hard: 128
+      ambient:
+        soft: 32
+        hard: 128
+      underground_water_creature:
+        soft: 32
+        hard: 128
+      water_creature:
+        soft: 32
+        hard: 128
+      water_ambient:
+        soft: 32
+        hard: 64
+      misc:
+        soft: 32
+        hard: 128
     frosted-ice:
       enabled: true
       delay:
@@ -262,6 +289,7 @@ world-settings:
       zombies: false
       skeletons: false
     hopper:
+      ignore-occluding-blocks: true
       cooldown-when-full: true
       disable-move-event: true
       disable-move-event-quickshop-tips: QuickShop automatic disabled this due it
@@ -269,10 +297,12 @@ world-settings:
         have shops in current world and hopper protection is on and also disable-move-event
         turned on.
     spawn-limits:
-      monsters: -1
-      animals: -1
-      water-animals: -1
-      water-ambient: -1
+      axolotls: -1
+      monster: -1
+      creature: -1
+      underground_water_creature: -1
+      water_creature: -1
+      water_ambient: -1
       ambient: -1
     alt-item-despawn-rate:
       enabled: false
@@ -311,7 +341,7 @@ world-settings:
       - stone
       - oak_planks
     viewdistances:
-      no-tick-view-distance: 7
+      no-tick-view-distance: 8
     unsupported-settings:
       fix-invulnerable-end-crystal-exploit: true
     squid-spawn-height:

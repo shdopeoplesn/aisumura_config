@@ -87,7 +87,15 @@ Exploits:
     MinecartBlockWhiteList: []
     RemoveExistingGlitchedMinecarts: false
     PreventHeadInsideBlocks: false
-  Enchants: {}
+  Enchants:
+    RemoveUnbreakableFlag: false
+    FixIllegalEnchants: false
+    RemoveCustomAttributes: false
+    CustomEnchantOverride: []
+    EnchantedItemWhitelist: []
+    DestroyIllegallyEnchantedItemsInstead: false
+    OnlyFunctionInWorlds: []
+    AllowBypass: false
   DropperDupe:
     BlockLoopedDroppers: false
   TNTDupe:
