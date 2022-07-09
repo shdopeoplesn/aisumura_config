@@ -253,6 +253,8 @@ Global:
     copper: true
     # Applies to: Both
     elytra: false
+    # Applies to: Both
+    harvest: true
   # This sets GUI items to represent each flag, if not given, then gray wool will be used
   FlagGui:
     animalkilling: DIRT
@@ -375,6 +377,7 @@ Global:
     nametag: NAME_TAG
     copper: IRON_BLOCK
     elytra: ELYTRA
+    harvest: SWEET_BERRIES
   # These are default flags applied to all residences from any user group.
   ResidenceDefault:
     build: false

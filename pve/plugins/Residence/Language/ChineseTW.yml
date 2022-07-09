@@ -1604,6 +1604,11 @@ CommandHelp:
               Description: Allows or denys elytra usage in residences
               Info:
               - '&eUsage: &6/res set/pset <residence> elytra true/false/remove'
+            harvest:
+              Translated: harvest
+              Description: Allows harvesting
+              Info:
+              - '&eUsage: &6/res set/pset <residence> harvest true/false/remove'
         remove:
           Info:
           - '&e用法: &6/res remove <領地名>'

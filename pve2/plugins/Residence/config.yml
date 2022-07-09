@@ -239,6 +239,7 @@ Global:
     Creeper:
       # When set to true will allow Creeper explode below 62 (default) level outside of residence
       # This will give more realistic game play
+      # For this to work properly you will need to disable creeper explosion in the world in general. This can be done in flags file under global world section
       ExplodeBelow: true
       level: 512
     Flow:
@@ -257,7 +258,7 @@ Global:
       Level: 256
       # With this set to true, playrs cant place lava outside residence
       NoLavaPlace: true
-      # With this set to true, playrs cant place water outside residence
+      # With this set to true, players cant place water outside residence
       NoWaterPlace: true
       Worlds:
       - world
